@@ -325,9 +325,9 @@ Developed as a collaborative project focused on building an AI-powered startup o
 
 ---
 
-## 📄 License
+## 📌 Project Status
 
-This project is licensed under the MIT License.
+This project was developed as an academic/group project to demonstrate the application of multi-agent AI systems in startup planning and execution workflows.
 
 ---
 
